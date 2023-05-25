@@ -1,2 +1,2 @@
-# react-e-commerce
- React & Redux-toolkit & Tailwindcss
+# react-ecommerce
+ React & Redux-tookit & Tailwindcss
