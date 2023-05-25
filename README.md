@@ -22,8 +22,8 @@ This is a responsive e-commerce project developed using ReactJS, Redux Toolkit, 
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/e-commerce-project.git`
-2. Navigate to the project directory: `cd e-commerce-project`
+1. Clone the repository: `git clone https://github.com/umtcn/react-ecommerce.git`
+2. Navigate to the project directory: `cd react-ecommerce-main`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
